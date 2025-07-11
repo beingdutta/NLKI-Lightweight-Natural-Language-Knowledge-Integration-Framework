@@ -1,0 +1,600 @@
+#> what small object can be used for resting
+	 [1] 		 14.9 		 rest is a type of being stationary
+	 [2] 		 12.2 		 a box is for thinking outside of
+	 [3] 		 12.0 		 you would have a rest because you want to get fresh
+	 [4] 		 11.5 		 a place to stay is for sleeping
+	 [5] 		 11.3 		 things that are often found together are table armchair living room sofa carpet
+#> is there a large furniture that I can use for resting in the image
+	 [1] 		 13.3 		 bed is a type of room furniture
+	 [2] 		 11.6 		 rest is a type of being stationary
+	 [3] 		 11.3 		 you would have a rest because you want to get fresh
+	 [4] 		 11.2 		 things that are often found together are table armchair living room sofa carpet
+	 [5] 		 10.3 		 another way to say pictureframes hold pictures is pictures are held in picture frames
+#> who is standing on the object that can be used for resting
+	 [1] 		 14.3 		 rest is a type of being stationary
+	 [2] 		 12.2 		 sitting on a chair is for eating at the dining room table
+	 [3] 		 12.1 		 you would have a rest because you want to get fresh
+	 [4] 		 11.2 		 a place to stay is for sleeping
+	 [5] 		 10.3 		 when a car is not being used it is parked
+#> what type of object is the child standing on and can be used for resting
+	 [1] 		 13.6 		 rest is a type of being stationary
+	 [2] 		 11.1 		 a child can stay home sick from school
+	 [3] 		 11.0 		 a box is for thinking outside of
+	 [4] 		 10.8 		 sitting on a chair is for eating at the dining room table
+	 [5] 		 10.1 		 a child can fix breakfast
+#> what object is above the thing that is usually used for entering or exiting an area
+	 [1] 		 12.7 		 a box is for thinking outside of
+	 [2] 		 10.6 		 something you might do while finding a lost item is looking under the couch
+	 [3] 		 10.5 		 situation all things are possible except skiing through a revolving door
+	 [4] 		 10.3 		 somewhere someone can be is on the upper deck
+	 [5] 		 10.1 		 something you find in a building is heat
+#> what type of metal is the object that is on the wall and is a type of artwork
+	 [1] 		 11.2 		 a trombone can be made of metal
+	 [2] 		 10.6 		 waffle iron is a type of kitchen appliance
+	 [3] 		 10.4 		 board is a type of lumber
+	 [4] 		 10.4 		 ideological barrier is a type of barrier
+	 [5] 		 10.1 		 bed is a type of room furniture
+#> what artwork is above the thing that is usually used for making a room private
+	 [1] 		 12.4 		 things that are often found together are bed room pillows
+	 [2] 		 12.3 		 bed is a type of room furniture
+	 [3] 		 12.1 		 things that are often found together are table armchair living room sofa carpet
+	 [4] 		 11.4 		 gun room is used in the region of united kingdom
+	 [5] 		 11.1 		 if you want to watch a television show then you should be in the same room as the tv set
+#> is there a wire furniture that could be used for storing pills in the image
+	 [1] 		 10.9 		 competitive activity is not used for storing things
+	 [2] 		 10.9 		 another way to say pictureframes hold pictures is pictures are held in picture frames
+	 [3] 		 9.9 		 bed is a type of room furniture
+	 [4] 		 9.2 		 gun room is used in the region of united kingdom
+	 [5] 		 8.8 		 a paper menu can be used for seeing what a restaurant has to offer
+#> which color is the furniture that is usually used for playing game at it
+	 [1] 		 13.5 		 poker is used for playing with
+	 [2] 		 12.9 		 if you want to play games then you should be manipulative
+	 [3] 		 12.4 		 the effect of seeing people play a game is we get inspired to play the same game
+	 [4] 		 11.3 		 bed is a type of room furniture
+	 [5] 		 11.2 		 a player can participate in a game
+#> what red furniture can be used for sitting on
+	 [1] 		 15.3 		 sitting on a chair is for eating at the dining room table
+	 [2] 		 12.5 		 bed is a type of room furniture
+	 [3] 		 12.0 		 things that are often found together are table armchair living room sofa carpet
+	 [4] 		 10.8 		 you are likely to find chairs around a school
+	 [5] 		 10.7 		 citronwood is a type of wood
+#> what is the color of the furniture that I can use for sitting on
+	 [1] 		 15.7 		 sitting on a chair is for eating at the dining room table
+	 [2] 		 13.7 		 bed is a type of room furniture
+	 [3] 		 12.2 		 things that are often found together are table armchair living room sofa carpet
+	 [4] 		 11.1 		 you are likely to find chairs around a school
+	 [5] 		 9.9 		 you would sate your hunger because eating is necessary for survival
+#> what color is the electronic device that can control a tv
+	 [1] 		 13.5 		 if you want to watch tv then you should turn it on
+	 [2] 		 10.7 		 normally human eyes are green brown or blue in color
+	 [3] 		 10.5 		 if you want to watch a television show then you should be in the same room as the tv set
+	 [4] 		 9.0 		 a computer can heat a room
+	 [5] 		 8.1 		 an electronics store is for buying a tivo
+#> what is on the object which can control a tv
+	 [1] 		 14.1 		 if you want to watch tv then you should turn it on
+	 [2] 		 13.3 		 if you want to watch a television show then you should be in the same room as the tv set
+	 [3] 		 11.0 		 a shower head may have different settings to control the pressure of the water
+	 [4] 		 9.0 		 a box is for thinking outside of
+	 [5] 		 9.0 		 a computer can heat a room
+#> is there an object which can be used for playing game at it
+	 [1] 		 17.1 		 poker is used for playing with
+	 [2] 		 16.0 		 a player can participate in a game
+	 [3] 		 15.7 		 if you want to play games then you should be manipulative
+	 [4] 		 14.0 		 the effect of seeing people play a game is we get inspired to play the same game
+	 [5] 		 13.7 		 if you want to play soccer then you should not use your hand
+#> is there an object that can be raced and ridden by humans
+	 [1] 		 12.1 		 you would drive your car because other people do
+	 [2] 		 11.3 		 something you find at a train station is a train
+	 [3] 		 11.3 		 something you find at a carnival is maskiert people
+	 [4] 		 10.8 		 something that might happen while moving a car is running over a squirrel
+	 [5] 		 10.4 		 situation all things are possible except skiing through a revolving door
+#> is the metal aircraft that is on the runway usually used for transporting people
+	 [1] 		 12.7 		 a passenger can board the plane
+	 [2] 		 11.9 		 trucks are used to haul many different things
+	 [3] 		 11.4 		 haul is used for pulling load
+	 [4] 		 11.2 		 fly is related to air walking
+	 [5] 		 9.3 		 machine is used for making things
+#> is there an object that is on the runway and is made of glass and can circle an airfield
+	 [1] 		 11.5 		 light can travel along glass fibers
+	 [2] 		 10.4 		 a passenger can board the plane
+	 [3] 		 9.7 		 rubber duck is made of plastic
+	 [4] 		 9.3 		 fly is related to air walking
+	 [5] 		 8.7 		 situation all things are possible except skiing through a revolving door
+#> what is the color of the object that is on the runway and is a type of public transports
+	 [1] 		 11.2 		 cargo liner is a type of liner
+	 [2] 		 10.3 		 fly is related to air walking
+	 [3] 		 10.1 		 rest is a type of being stationary
+	 [4] 		 9.9 		 a passenger can board the plane
+	 [5] 		 9.5 		 haul is used for pulling load
+#> what is on the metal object that is usually used for transporting people
+	 [1] 		 14.2 		 trucks are used to haul many different things
+	 [2] 		 12.6 		 haul is used for pulling load
+	 [3] 		 11.6 		 machine is used for making things
+	 [4] 		 10.6 		 removal is related to hauling away
+	 [5] 		 10.4 		 competitive activity is not used for storing things
+#> what is the runway has and is usually used for transporting people
+	 [1] 		 15.3 		 haul is used for pulling load
+	 [2] 		 14.6 		 trucks are used to haul many different things
+	 [3] 		 13.3 		 a passenger can board the plane
+	 [4] 		 13.0 		 fly is related to air walking
+	 [5] 		 11.9 		 a return ticket is used to gain entry when coming back
+#> what vehicle is on the place that is usually used for landing airplanes
+	 [1] 		 13.6 		 a passenger can board the plane
+	 [2] 		 12.9 		 a garage is for parking the car
+	 [3] 		 12.9 		 when a car is not being used it is parked
+	 [4] 		 11.0 		 fly is related to air walking
+	 [5] 		 10.7 		 you are likely to find a parking zone in cars
+#> is there a rainbow colored object that can travel on road
+	 [1] 		 14.2 		 light can travel along glass fibers
+	 [2] 		 12.1 		 listening to the radio when you drive can make a long trip bearable
+	 [3] 		 11.2 		 travelling by dogsled requires a compatible energetic and responsive team of huskies
+	 [4] 		 10.4 		 to understand the event gregg drove his friend to the doctor it is important to know that the doctor lives some distance away
+	 [5] 		 9.5 		 mengembara is a translation of travel
+#> what place depicted in the image can object which is made of metal circle
+	 [1] 		 12.2 		 a trombone can be made of metal
+	 [2] 		 9.6 		 another way to say pictureframes hold pictures is pictures are held in picture frames
+	 [3] 		 9.5 		 picture description mt zermatt in switzerland
+	 [4] 		 8.5 		 cone is a type of pointed shape
+	 [5] 		 8.2 		 picture description this is a young female human between four and seven years old  she is holding a young dog  young dogs are called puppies
+#> what color is the object that is on the table and is usually used for holding juice
+	 [1] 		 11.0 		 to understand the event there is water in the glass it is important to know that a glass is used to hold liquid
+	 [2] 		 10.6 		 normally human eyes are green brown or blue in color
+	 [3] 		 9.9 		 drink is related to liquid consumable
+	 [4] 		 9.0 		 another way to say pictureframes hold pictures is pictures are held in picture frames
+	 [5] 		 8.9 		 you are likely to find a tab in a beerhall
+#> what is on the furniture that can be used for putting things on
+	 [1] 		 15.8 		 bed is a type of room furniture
+	 [2] 		 15.1 		 machine is used for making things
+	 [3] 		 14.1 		 sitting on a chair is for eating at the dining room table
+	 [4] 		 13.3 		 competitive activity is not used for storing things
+	 [5] 		 13.1 		 a box is for thinking outside of
+#> can the white object be used for lifting food from plate to mouth
+	 [1] 		 11.5 		 the last thing you do when you eat dinner is put my fork on the plate
+	 [2] 		 11.3 		 a paper menu can be used for seeing what a restaurant has to offer
+	 [3] 		 11.1 		 sitting on a chair is for eating at the dining room table
+	 [4] 		 10.0 		 the first thing you do when you score a homer is walk to home plate
+	 [5] 		 9.9 		 to understand the event louie ate his chop suey with chop sticks it is important to know that chop sticks are used for eating
+#> what artwork is on the thing that can be used for hanging a picture
+	 [1] 		 14.3 		 another way to say pictureframes hold pictures is pictures are held in picture frames
+	 [2] 		 10.6 		 another way to say you can use a band aid to put over a cut is what you can put over a cut is a band aid
+	 [3] 		 9.4 		 the statement picture description old pen is true because this statement has no further detail i cannot comment on it
+	 [4] 		 9.2 		 picture description collection of old hardcover books classics
+	 [5] 		 9.0 		 haul is used for pulling load
+#> what furniture in the picture can be used for working
+	 [1] 		 14.0 		 bed is a type of room furniture
+	 [2] 		 12.8 		 a paper menu can be used for seeing what a restaurant has to offer
+	 [3] 		 12.6 		 another way to say pictureframes hold pictures is pictures are held in picture frames
+	 [4] 		 12.1 		 sitting on a chair is for eating at the dining room table
+	 [5] 		 11.9 		 a box is for thinking outside of
+#> is there an object which can be used for working
+	 [1] 		 15.3 		 machine is used for making things
+	 [2] 		 14.1 		 if you want to begin work then you should apply effort
+	 [3] 		 13.9 		 competitive activity is not used for storing things
+	 [4] 		 13.9 		 product is used for selling
+	 [5] 		 13.6 		 ox is a type of working animal
+#> what is on the thing that is usually used for letting fresh air in
+	 [1] 		 10.6 		 haul is used for pulling load
+	 [2] 		 10.6 		 a box is for thinking outside of
+	 [3] 		 10.4 		 a place to stay is for sleeping
+	 [4] 		 10.0 		 you would have a rest because you want to get fresh
+	 [5] 		 9.9 		 things that are often found together are bed room pillows
+#> what thing that is on the counter contains starch
+	 [1] 		 9.9 		 things that are often found together are table armchair living room sofa carpet
+	 [2] 		 9.7 		 something you find in the oven is oven racks
+	 [3] 		 9.2 		 something you find in your mouth is dentures
+	 [4] 		 8.7 		 things that are often found together are bed room pillows
+	 [5] 		 8.3 		 shopkeepers can charge too much for products
+#> which object in the picture is a type of dessert
+	 [1] 		 15.5 		 a cake is good for dessert
+	 [2] 		 13.5 		 cake is related to celebratory
+	 [3] 		 13.2 		 cone is a type of pointed shape
+	 [4] 		 10.9 		 tithe is a type of offering
+	 [5] 		 10.4 		 explain is a type of long description
+#> is there an object that is a type of dessert
+	 [1] 		 17.6 		 a cake is good for dessert
+	 [2] 		 14.6 		 cone is a type of pointed shape
+	 [3] 		 14.1 		 cake is related to celebratory
+	 [4] 		 13.5 		 tithe is a type of offering
+	 [5] 		 13.2 		 bed is a type of room furniture
+#> can the object in white be used for holding papers together
+	 [1] 		 13.5 		 another way to say pictureframes hold pictures is pictures are held in picture frames
+	 [2] 		 12.6 		 a paper menu can be used for seeing what a restaurant has to offer
+	 [3] 		 12.0 		 people like to try to throw balled up pieces of paper into the wastebasket
+	 [4] 		 11.6 		 competitive activity is not used for storing things
+	 [5] 		 10.8 		 book is made of papers
+#> what is the color of the object that can be used for putting things in
+	 [1] 		 12.9 		 competitive activity is not used for storing things
+	 [2] 		 12.4 		 machine is used for making things
+	 [3] 		 10.9 		 something that might happen while examining a thing is you drop it
+	 [4] 		 10.8 		 a box is for thinking outside of
+	 [5] 		 10.1 		 a pair of glasses is used for seeing better
+#> can the small vehicle parked on the road carry few persons
+	 [1] 		 14.5 		 you would drive your car because other people do
+	 [2] 		 12.9 		 when a car is not being used it is parked
+	 [3] 		 12.4 		 you are likely to find a parking zone in cars
+	 [4] 		 12.3 		 listening to the radio when you drive can make a long trip bearable
+	 [5] 		 12.2 		 trucks are used to haul many different things
+#> what size is the vehicle that is parked on the road and can carry few persons
+	 [1] 		 12.2 		 you would drive your car because other people do
+	 [2] 		 12.0 		 when a car is not being used it is parked
+	 [3] 		 11.9 		 you are likely to find a parking zone in cars
+	 [4] 		 11.4 		 a garage is for parking the car
+	 [5] 		 11.2 		 trucks are used to haul many different things
+#> what part of vehicle is on the black object that can travel on road
+	 [1] 		 11.8 		 you are likely to find a parking zone in cars
+	 [2] 		 11.1 		 listening to the radio when you drive can make a long trip bearable
+	 [3] 		 10.7 		 a garage is for parking the car
+	 [4] 		 10.6 		 light can travel along glass fibers
+	 [5] 		 10.6 		 you would drive your car because other people do
+#> what tableware in red could be used for holding pizza
+	 [1] 		 10.1 		 another way to say pictureframes hold pictures is pictures are held in picture frames
+	 [2] 		 8.8 		 things that are often found together are table armchair living room sofa carpet
+	 [3] 		 8.7 		 gun room is used in the region of united kingdom
+	 [4] 		 8.6 		 a paper menu can be used for seeing what a restaurant has to offer
+	 [5] 		 8.3 		 a pair of glasses is used for seeing better
+#> what is the color of the tableware that can be used for holding pizza
+	 [1] 		 10.8 		 another way to say pictureframes hold pictures is pictures are held in picture frames
+	 [2] 		 9.5 		 things that are often found together are table armchair living room sofa carpet
+	 [3] 		 9.1 		 a paper menu can be used for seeing what a restaurant has to offer
+	 [4] 		 8.7 		 a box is for thinking outside of
+	 [5] 		 8.6 		 to understand the event there is water in the glass it is important to know that a glass is used to hold liquid
+#> what is length of the place that I can use for walking on
+	 [1] 		 11.7 		 a place to stay is for sleeping
+	 [2] 		 11.3 		 the first thing you do when you score a homer is walk to home plate
+	 [3] 		 11.2 		 fly is related to air walking
+	 [4] 		 10.3 		 modern whales have hip bones that they do not use because they do not walk and therefore they probably evolved from mammals that did walk
+	 [5] 		 10.2 		 something you might do while awaking is stretch
+#> is the small object that is parked on the road usually used for decoration
+	 [1] 		 13.9 		 when a car is not being used it is parked
+	 [2] 		 12.8 		 a garage is for parking the car
+	 [3] 		 12.0 		 you are likely to find a parking zone in cars
+	 [4] 		 10.9 		 buying something small is for a token
+	 [5] 		 10.8 		 something you find at a carnival is maskiert people
+#> what size is the object that is parked on the road and I can use for transportation
+	 [1] 		 12.5 		 when a car is not being used it is parked
+	 [2] 		 11.8 		 you are likely to find a parking zone in cars
+	 [3] 		 11.6 		 a garage is for parking the car
+	 [4] 		 9.8 		 listening to the radio when you drive can make a long trip bearable
+	 [5] 		 9.7 		 you would drive your car because other people do
+#> is the object that can grow new branches bare
+	 [1] 		 13.6 		 with the new office we can branch out
+	 [2] 		 12.6 		 nest is a type of branches leaves
+	 [3] 		 11.0 		 limb is related to branch
+	 [4] 		 8.5 		 fertilizer is put on lawns to make the grass grow
+	 [5] 		 8.1 		 somewhere someone can be is on the upper deck
+#> is the tall object usually used for creating ambience
+	 [1] 		 8.6 		 things that are often found together are table armchair living room sofa carpet
+	 [2] 		 8.5 		 a box is for thinking outside of
+	 [3] 		 8.0 		 obedient is related to manageable
+	 [4] 		 7.9 		 point is typically near end pencil
+	 [5] 		 7.9 		 a pair of glasses is used for seeing better
+#> what is the height of the object that can be used for keeping pets in
+	 [1] 		 12.5 		 pets are animals that live at your home for your own pleasure
+	 [2] 		 9.8 		 picture description this is a young female human between four and seven years old  she is holding a young dog  young dogs are called puppies
+	 [3] 		 9.7 		 zoo is a type of animal shelter
+	 [4] 		 8.4 		 travelling by dogsled requires a compatible energetic and responsive team of huskies
+	 [5] 		 8.3 		 competitive activity is not used for storing things
+#> what is hanging on the thing that I can use for hanging a picture
+	 [1] 		 16.1 		 another way to say pictureframes hold pictures is pictures are held in picture frames
+	 [2] 		 12.3 		 another way to say you can use a band aid to put over a cut is what you can put over a cut is a band aid
+	 [3] 		 11.6 		 haul is used for pulling load
+	 [4] 		 10.5 		 a box is for thinking outside of
+	 [5] 		 10.2 		 something that might happen while examining a thing is you drop it
+#> which white object that is on the head usually appears in bedroom
+	 [1] 		 13.0 		 things that are often found together are bed room pillows
+	 [2] 		 12.0 		 you are likely to find baseball bat in a closet
+	 [3] 		 12.0 		 horn is typically in bulls head
+	 [4] 		 11.7 		 things that are often found together are table armchair living room sofa carpet
+	 [5] 		 11.7 		 abdomen is typically near thorax head
+#> what thing depicted in the image can cat see well in
+	 [1] 		 11.5 		 you are likely to find a cat in a residence
+	 [2] 		 11.3 		 the effect of seeing people play a game is we get inspired to play the same game
+	 [3] 		 11.0 		 it is hard to believe in something you cannot see
+	 [4] 		 10.7 		 a pair of glasses is used for seeing better
+	 [5] 		 9.9 		 picture description collection of old hardcover books classics
+#> what thing in the picture can horse carry
+	 [1] 		 14.7 		 horse is related to plain
+	 [2] 		 13.9 		 another way to say pictureframes hold pictures is pictures are held in picture frames
+	 [3] 		 11.7 		 trucks are used to haul many different things
+	 [4] 		 10.8 		 picture description collection of old hardcover books classics
+	 [5] 		 10.3 		 haul is used for pulling load
+#> which object that is attached to the wall is a type of electrical appliance
+	 [1] 		 14.3 		 waffle iron is a type of kitchen appliance
+	 [2] 		 12.1 		 a toaster is an appliance
+	 [3] 		 11.4 		 fiddling is for an appliance
+	 [4] 		 10.9 		 an electronics store is for buying a tivo
+	 [5] 		 9.9 		 bed is a type of room furniture
+#> what is attached to the thing that could be used for hanging art work
+	 [1] 		 11.0 		 another way to say pictureframes hold pictures is pictures are held in picture frames
+	 [2] 		 10.4 		 hide is related to make unseen
+	 [3] 		 10.3 		 haul is used for pulling load
+	 [4] 		 10.1 		 a box is for thinking outside of
+	 [5] 		 10.1 		 another way to say you can use a band aid to put over a cut is what you can put over a cut is a band aid
+#> is there an object that is bright blue and is usually used for holding flowers
+	 [1] 		 11.7 		 to understand the event there is water in the glass it is important to know that a glass is used to hold liquid
+	 [2] 		 11.2 		 another way to say pictureframes hold pictures is pictures are held in picture frames
+	 [3] 		 9.6 		 flower is related to rose tulip
+	 [4] 		 9.2 		 competitive activity is not used for storing things
+	 [5] 		 8.7 		 things that are often found together are light health sigarette smoking hand
+#> what material is the object that is on the counter and can be used for holding food made of
+	 [1] 		 11.7 		 competitive activity is not used for storing things
+	 [2] 		 11.6 		 to understand the event there is water in the glass it is important to know that a glass is used to hold liquid
+	 [3] 		 11.3 		 a paper menu can be used for seeing what a restaurant has to offer
+	 [4] 		 11.1 		 product is used for selling
+	 [5] 		 11.1 		 machine is used for making things
+#> can the object in the bathroom be used for holding books
+	 [1] 		 13.5 		 to understand the event there is water in the glass it is important to know that a glass is used to hold liquid
+	 [2] 		 12.8 		 competitive activity is not used for storing things
+	 [3] 		 12.7 		 another way to say pictureframes hold pictures is pictures are held in picture frames
+	 [4] 		 12.5 		 something you find on the shelf is a bookend
+	 [5] 		 12.2 		 a bathroom with toilet is for taking a bath
+#> what is on the furniture that could be used for holding books
+	 [1] 		 15.8 		 another way to say pictureframes hold pictures is pictures are held in picture frames
+	 [2] 		 14.5 		 a printer is for printing book reports
+	 [3] 		 14.5 		 something you find on the shelf is a bookend
+	 [4] 		 14.2 		 bed is a type of room furniture
+	 [5] 		 13.9 		 book is made of papers
+#> is there a place which can be used for storing food
+	 [1] 		 19.6 		 competitive activity is not used for storing things
+	 [2] 		 14.7 		 you are likely to find a convenience food store in a small town
+	 [3] 		 14.1 		 a place to stay is for sleeping
+	 [4] 		 13.5 		 a paper menu can be used for seeing what a restaurant has to offer
+	 [5] 		 13.0 		 to understand the event there is water in the glass it is important to know that a glass is used to hold liquid
+#> what furniture is in the place that could be used for brushing teeth
+	 [1] 		 12.6 		 bed is a type of room furniture
+	 [2] 		 11.1 		 sitting on a chair is for eating at the dining room table
+	 [3] 		 10.6 		 a box is for thinking outside of
+	 [4] 		 10.5 		 things that are often found together are table armchair living room sofa carpet
+	 [5] 		 10.2 		 things that are often found together are bed room pillows
+#> which thing that is on the shelf could be found in bathroom
+	 [1] 		 16.1 		 something you find on the shelf is a bookend
+	 [2] 		 14.8 		 you are likely to find baseball bat in a closet
+	 [3] 		 13.7 		 something you find in the oven is oven racks
+	 [4] 		 12.8 		 a bathroom with toilet is for taking a bath
+	 [5] 		 12.6 		 emptying your bladder requires going to the bathroom
+#> what yellow thing could be found in bathroom
+	 [1] 		 13.1 		 you are likely to find baseball bat in a closet
+	 [2] 		 11.5 		 a bathroom with toilet is for taking a bath
+	 [3] 		 11.0 		 something you find in a building is heat
+	 [4] 		 10.9 		 things that are often found together are table armchair living room sofa carpet
+	 [5] 		 10.8 		 things that are often found together are bed room pillows
+#> which thing in the image can cat see well in
+	 [1] 		 13.5 		 you are likely to find a cat in a residence
+	 [2] 		 10.7 		 you are likely to find a fox in the wild
+	 [3] 		 10.6 		 a pair of glasses is used for seeing better
+	 [4] 		 10.2 		 it is hard to believe in something you cannot see
+	 [5] 		 9.9 		 things that are often found together are table armchair living room sofa carpet
+#> is the object on the bed usually used for sleeping
+	 [1] 		 17.8 		 things that are often found together are bed room pillows
+	 [2] 		 16.2 		 a place to stay is for sleeping
+	 [3] 		 15.6 		 bed is a type of room furniture
+	 [4] 		 14.1 		 things that are often found together are table armchair living room sofa carpet
+	 [5] 		 13.9 		 the last thing you do when you eat breakfast in bed is remove the tray
+#> what room could be found in the room has the desk
+	 [1] 		 15.6 		 things that are often found together are table armchair living room sofa carpet
+	 [2] 		 15.3 		 things that are often found together are bed room pillows
+	 [3] 		 14.1 		 gun room is used in the region of united kingdom
+	 [4] 		 13.9 		 bed is a type of room furniture
+	 [5] 		 13.8 		 a computer can heat a room
+#> what object that is on the desk could be found in office
+	 [1] 		 14.9 		 similarity between a correction fluid and a tape dispenser both are office supplies
+	 [2] 		 13.5 		 with the new office we can branch out
+	 [3] 		 12.2 		 something you find in a building is heat
+	 [4] 		 12.1 		 things that are often found together are table armchair living room sofa carpet
+	 [5] 		 11.5 		 things that are often found together are bed room pillows
+#> which object is usually used for decorating the thing that has the desk
+	 [1] 		 12.6 		 things that are often found together are bed room pillows
+	 [2] 		 12.6 		 things that are often found together are table armchair living room sofa carpet
+	 [3] 		 11.4 		 bed is a type of room furniture
+	 [4] 		 11.1 		 something you find in a building is heat
+	 [5] 		 10.4 		 machine is used for making things
+#> what furniture on the desk usually appears in bedroom
+	 [1] 		 17.6 		 bed is a type of room furniture
+	 [2] 		 15.3 		 things that are often found together are bed room pillows
+	 [3] 		 15.2 		 things that are often found together are table armchair living room sofa carpet
+	 [4] 		 11.7 		 sitting on a chair is for eating at the dining room table
+	 [5] 		 10.9 		 board is a type of lumber
+#> is there a furniture that can be used for storing books
+	 [1] 		 15.5 		 competitive activity is not used for storing things
+	 [2] 		 15.3 		 a printer is for printing book reports
+	 [3] 		 15.1 		 something you find on the shelf is a bookend
+	 [4] 		 14.6 		 book is made of papers
+	 [5] 		 14.3 		 bed is a type of room furniture
+#> can the wooden object that is next to the wall be used for napping on
+	 [1] 		 10.0 		 a box is for thinking outside of
+	 [2] 		 9.9 		 things that are often found together are bed room pillows
+	 [3] 		 9.7 		 bed is a type of room furniture
+	 [4] 		 9.5 		 sitting on a chair is for eating at the dining room table
+	 [5] 		 9.3 		 competitive activity is not used for storing things
+#> what color is the bedding that is on top of the bed and I can use for sleeping
+	 [1] 		 12.4 		 the last thing you do when you eat breakfast in bed is remove the tray
+	 [2] 		 11.8 		 bed is a type of room furniture
+	 [3] 		 11.6 		 a place to stay is for sleeping
+	 [4] 		 11.5 		 things that are often found together are bed room pillows
+	 [5] 		 9.8 		 something that might happen while attending a classical concert is falling asleep
+#> what is the height of the furniture that is next to the bed and can be used for lighting a room
+	 [1] 		 14.2 		 bed is a type of room furniture
+	 [2] 		 11.5 		 things that are often found together are bed room pillows
+	 [3] 		 10.8 		 things that are often found together are table armchair living room sofa carpet
+	 [4] 		 10.8 		 sitting on a chair is for eating at the dining room table
+	 [5] 		 10.0 		 a place to stay is for sleeping
+#> can the small animal that is on top of the nightstand fly
+	 [1] 		 11.0 		 the sun rises above the horizon at dawn
+	 [2] 		 10.7 		 pets are animals that live at your home for your own pleasure
+	 [3] 		 10.1 		 somewhere someone can be is on the upper deck
+	 [4] 		 9.6 		 a passenger can board the plane
+	 [5] 		 9.2 		 fly is related to air walking
+#> what size is the object that is on top of the nightstand and is a type of odd-toed ungulate
+	 [1] 		 9.1 		 something you find on the shelf is a bookend
+	 [2] 		 8.3 		 hill is about the same size as a building
+	 [3] 		 8.3 		 things that are often found together are light health sigarette smoking hand
+	 [4] 		 8.0 		 mattress is a type of cushion
+	 [5] 		 7.9 		 gastrophryne is a type of amphibian genus
+#> is the small object on top of the nightstand usually used for holding something
+	 [1] 		 13.5 		 something you find on the shelf is a bookend
+	 [2] 		 13.2 		 things that are often found together are bed room pillows
+	 [3] 		 12.3 		 things that are often found together are table armchair living room sofa carpet
+	 [4] 		 12.0 		 something you might do while finding a lost item is looking under the couch
+	 [5] 		 12.0 		 buying something small is for a token
+#> what size is the object that is on top of the nightstand and can be used for knowing the time
+	 [1] 		 9.7 		 minute is used for clocks
+	 [2] 		 9.2 		 to understand the event mary had a bagel for breakfast it is important to know that breakfast is eaten in the morning
+	 [3] 		 9.2 		 the sun rises above the horizon at dawn
+	 [4] 		 8.9 		 clock is related to hours
+	 [5] 		 8.5 		 something you might do while finding a lost item is looking under the couch
+#> which wooden object that is on top of the ottoman could be found in restaurant
+	 [1] 		 11.1 		 things that are often found together are table armchair living room sofa carpet
+	 [2] 		 10.4 		 you are likely to find a tab in a beerhall
+	 [3] 		 10.1 		 something you might do while finding a lost item is looking under the couch
+	 [4] 		 10.0 		 sitting on a chair is for eating at the dining room table
+	 [5] 		 8.8 		 a paper menu can be used for seeing what a restaurant has to offer
+#> what object that is next to the wooden bed can be used for decorating room
+	 [1] 		 14.5 		 bed is a type of room furniture
+	 [2] 		 14.2 		 things that are often found together are bed room pillows
+	 [3] 		 11.7 		 things that are often found together are table armchair living room sofa carpet
+	 [4] 		 10.5 		 sitting on a chair is for eating at the dining room table
+	 [5] 		 10.4 		 the last thing you do when you eat breakfast in bed is remove the tray
+#> is the object next to the wooden bed usually used for decorating room
+	 [1] 		 14.9 		 bed is a type of room furniture
+	 [2] 		 14.6 		 things that are often found together are bed room pillows
+	 [3] 		 11.9 		 things that are often found together are table armchair living room sofa carpet
+	 [4] 		 10.7 		 sitting on a chair is for eating at the dining room table
+	 [5] 		 10.4 		 the last thing you do when you eat breakfast in bed is remove the tray
+#> is there a sunny object that is next to the bed and I can use for decorating a room
+	 [1] 		 12.8 		 things that are often found together are bed room pillows
+	 [2] 		 12.8 		 bed is a type of room furniture
+	 [3] 		 11.3 		 the last thing you do when you eat breakfast in bed is remove the tray
+	 [4] 		 10.2 		 a computer can heat a room
+	 [5] 		 10.2 		 things that are often found together are table armchair living room sofa carpet
+#> what color is the object that is next to the bed and I can use for decorating a room
+	 [1] 		 13.3 		 bed is a type of room furniture
+	 [2] 		 12.2 		 things that are often found together are bed room pillows
+	 [3] 		 11.1 		 the last thing you do when you eat breakfast in bed is remove the tray
+	 [4] 		 10.3 		 things that are often found together are table armchair living room sofa carpet
+	 [5] 		 9.6 		 to understand the event suzie is harolds wife  suzie just caught harold in bed with danni it is important to know that suzie is female
+#> what is the white blanket on and can be used for resting
+	 [1] 		 13.1 		 you would have a rest because you want to get fresh
+	 [2] 		 12.8 		 rest is a type of being stationary
+	 [3] 		 11.8 		 a place to stay is for sleeping
+	 [4] 		 11.4 		 scablands is used in the context of geology
+	 [5] 		 11.1 		 sitting on a chair is for eating at the dining room table
+#> can the object in white be used for riding
+	 [1] 		 10.5 		 horse is related to plain
+	 [2] 		 10.3 		 light can travel along glass fibers
+	 [3] 		 10.0 		 competitive activity is not used for storing things
+	 [4] 		 9.8 		 sitting on a chair is for eating at the dining room table
+	 [5] 		 9.6 		 when a car is not being used it is parked
+#> what place depicted in the image could be used for sleeping
+	 [1] 		 18.2 		 a place to stay is for sleeping
+	 [2] 		 14.5 		 something that might happen while attending a classical concert is falling asleep
+	 [3] 		 11.4 		 things that are often found together are bed room pillows
+	 [4] 		 11.1 		 scablands is used in the context of geology
+	 [5] 		 10.5 		 picture description mt zermatt in switzerland
+#> what place is the window in and is usually used for sleeping
+	 [1] 		 18.3 		 a place to stay is for sleeping
+	 [2] 		 12.5 		 gun room is used in the region of united kingdom
+	 [3] 		 12.2 		 a box is for thinking outside of
+	 [4] 		 11.7 		 something that might happen while attending a classical concert is falling asleep
+	 [5] 		 11.2 		 things that are often found together are bed room pillows
+#> is there an object that can be used for holding apples
+	 [1] 		 13.9 		 to understand the event the apple fell from the tree it is important to know that this occured in the past
+	 [2] 		 13.8 		 to understand the event there is water in the glass it is important to know that a glass is used to hold liquid
+	 [3] 		 12.7 		 another way to say pictureframes hold pictures is pictures are held in picture frames
+	 [4] 		 12.6 		 to understand the event casey ate some rotten apples  casey got sick it is important to know that all fruit rots if left for long enough
+	 [5] 		 12.0 		 apple of peru is a synonym of jimsonweed
+#> what is near the thing that can be used for letting light in
+	 [1] 		 13.5 		 light can travel along glass fibers
+	 [2] 		 12.7 		 a place to stay is for sleeping
+	 [3] 		 12.1 		 things that are often found together are light health sigarette smoking hand
+	 [4] 		 11.9 		 lantern is related to old light
+	 [5] 		 11.0 		 a pair of glasses is used for seeing better
+#> what square object leaning on the wall is usually used for measuring passage of time
+	 [1] 		 9.9 		 minute is used for clocks
+	 [2] 		 9.0 		 time is a type of hours
+	 [3] 		 8.6 		 sign is related to on buildings
+	 [4] 		 8.5 		 sitting on a chair is for eating at the dining room table
+	 [5] 		 8.3 		 scablands is used in the context of geology
+#> what is the shape of the object that is on the desk and could be used for measuring the passage of time
+	 [1] 		 11.6 		 time is a type of hours
+	 [2] 		 11.0 		 minute is used for clocks
+	 [3] 		 9.7 		 cone is a type of pointed shape
+	 [4] 		 9.5 		 a box is for thinking outside of
+	 [5] 		 9.4 		 sitting on a chair is for eating at the dining room table
+#> what is above the metal furniture that could be used for putting a computer on it
+	 [1] 		 13.0 		 a computer can heat a room
+	 [2] 		 12.7 		 encarta is one type of encyclopedia that you can use on your computer
+	 [3] 		 10.5 		 machine is used for making things
+	 [4] 		 10.0 		 bed is a type of room furniture
+	 [5] 		 9.7 		 something that might happen as a consequence of getting onto the web is i might spend too much time on the computer
+#> which small toy that is on the small bed is usually used for playing with child
+	 [1] 		 11.9 		 a child can fix breakfast
+	 [2] 		 11.4 		 things that are often found together are bed room pillows
+	 [3] 		 11.1 		 buying something small is for a token
+	 [4] 		 11.1 		 poker is used for playing with
+	 [5] 		 10.7 		 a child can stay home sick from school
+#> is the small object that is near the green car usually used for playing with child
+	 [1] 		 9.9 		 when a car is not being used it is parked
+	 [2] 		 9.8 		 a child can stay home sick from school
+	 [3] 		 9.7 		 you are likely to find chairs around a school
+	 [4] 		 9.6 		 buying something small is for a token
+	 [5] 		 9.5 		 a garage is for parking the car
+#> what size is the toy that is near the window and is usually used for playing with a child
+	 [1] 		 11.8 		 universal plug and play comes as standard with windows xp
+	 [2] 		 11.6 		 a brick can break a window
+	 [3] 		 10.3 		 a child can fix breakfast
+	 [4] 		 10.0 		 buying something small is for a token
+	 [5] 		 9.7 		 a child can stay home sick from school
+#> what size is the object that is on the desk and is electric
+	 [1] 		 10.1 		 hill is about the same size as a building
+	 [2] 		 8.6 		 atomic number is the number of protons in an atom
+	 [3] 		 8.3 		 an electronics store is for buying a tivo
+	 [4] 		 8.1 		 similarity between a correction fluid and a tape dispenser both are office supplies
+	 [5] 		 7.6 		 a computer can heat a room
+#> what white object that is above the metal desk is a type of carnivora
+	 [1] 		 8.7 		 rice is a type of white grains
+	 [2] 		 8.5 		 a trombone can be made of metal
+	 [3] 		 8.4 		 happy is the name of one of snow whites seven dwarfs
+	 [4] 		 8.2 		 board is a type of lumber
+	 [5] 		 7.9 		 cirsium is a type of asterid dicot genus
+#> which green object that is above the small bed can spend gas
+	 [1] 		 9.1 		 something you might do while finding a lost item is looking under the couch
+	 [2] 		 8.8 		 things that are often found together are bed room pillows
+	 [3] 		 8.6 		 to understand the event jill received a bill from the gas company it is important to know that gas provides heat
+	 [4] 		 8.5 		 after cleaning his toilet with gasoline robert chose to cover the smell with candles and incense
+	 [5] 		 8.1 		 the last thing you do when you eat breakfast in bed is remove the tray
+#> what size is the object that is above the bed and can spend gas
+	 [1] 		 9.6 		 something you might do while finding a lost item is looking under the couch
+	 [2] 		 9.3 		 after cleaning his toilet with gasoline robert chose to cover the smell with candles and incense
+	 [3] 		 9.3 		 to understand the event jill received a bill from the gas company it is important to know that gas provides heat
+	 [4] 		 9.0 		 things that are often found together are bed room pillows
+	 [5] 		 8.7 		 the sun rises above the horizon at dawn
+#> what is near the green vehicle which can spend gas
+	 [1] 		 10.5 		 produce is a kind of green food
+	 [2] 		 10.5 		 you are likely to find a parking zone in cars
+	 [3] 		 10.2 		 a garage is for parking the car
+	 [4] 		 10.1 		 to understand the event jill received a bill from the gas company it is important to know that gas provides heat
+	 [5] 		 9.6 		 you would spend money because you want something new
+#> what object in red could be used for resting
+	 [1] 		 11.9 		 rest is a type of being stationary
+	 [2] 		 11.7 		 you would have a rest because you want to get fresh
+	 [3] 		 10.1 		 red region is a synonym of hellfire
+	 [4] 		 9.3 		 a box is for thinking outside of
+	 [5] 		 9.3 		 competitive activity is not used for storing things
+#> can the red furniture be used for holding books
+	 [1] 		 13.5 		 a printer is for printing book reports
+	 [2] 		 11.7 		 book is made of papers
+	 [3] 		 11.2 		 competitive activity is not used for storing things
+	 [4] 		 11.1 		 picture description collection of old hardcover books classics
+	 [5] 		 11.0 		 situation read how to books
+#> can the brown furniture on the brown floor be used for sitting on
+	 [1] 		 15.0 		 sitting on a chair is for eating at the dining room table
+	 [2] 		 12.9 		 brown snail is a type of garden snail
+	 [3] 		 12.2 		 bed is a type of room furniture
+	 [4] 		 12.0 		 things that are often found together are table armchair living room sofa carpet
+	 [5] 		 10.8 		 a place to stay is for sleeping
+#> what color is the object that is on the floor and could be used for sitting on
+	 [1] 		 10.6 		 ottaa puheenvuoro is a translation of take the floor
+	 [2] 		 10.4 		 sitting on a chair is for eating at the dining room table
+	 [3] 		 10.1 		 things that are often found together are table armchair living room sofa carpet
+	 [4] 		 10.0 		 normally human eyes are green brown or blue in color
+	 [5] 		 9.8 		 indigo is similar to colored
