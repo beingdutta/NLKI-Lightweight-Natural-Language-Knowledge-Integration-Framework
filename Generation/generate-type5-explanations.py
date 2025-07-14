@@ -77,12 +77,11 @@ def main():
     with open(args.test_json, "r") as f:
         test_json = json.load(f)
 
-    question_list, answer_list, img_list, gt_explanations = [], [], [], []
+    question_list, answer_list, img_list = [], [], []
     for entry in test_json:
         question_list.append(entry['question'])
         answer_list.append(entry['answer'])
         img_list.append(entry['image_id'])
-        gt_explanations.append(' '.join(entry['sub_graph']['knowledge_items'][0]['triplet']) + '.')
 
     with open(args.traditional_caption, 'r') as f:
         conventional_captions = [line.strip().split('_', 1)[1] for line in f]
