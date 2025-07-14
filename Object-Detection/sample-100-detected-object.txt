@@ -1,0 +1,100 @@
+footwear,person
+television,loudspeaker,chair
+television,loudspeaker,chair
+television,loudspeaker,chair
+house,table,chair
+house,table,chair
+house,table,chair
+house,table,chair
+house,table,chair
+house,table,chair
+house,table,chair
+picture frame,house,table,fireplace
+picture frame,house,table,fireplace
+picture frame,house,table,fireplace
+picture frame,house,table,fireplace
+picture frame,house,table,fireplace
+picture frame,house,table,fireplace
+building,car
+building,car
+building,car
+person
+person
+person
+building
+building
+person
+person
+person
+person
+person
+person
+shelf
+shelf
+shelf
+shelf
+building,person
+house,drawer,chest of drawers
+car,person,wheel,vehicle registration plate
+car,person,wheel,vehicle registration plate
+car,person,wheel,vehicle registration plate
+car,person,wheel,vehicle registration plate
+person
+person
+person
+person
+person
+flowerpot,table,houseplant,chair
+flowerpot,table,houseplant,chair
+flowerpot,table,houseplant,chair
+flowerpot,table,houseplant,chair
+flowerpot,table,houseplant,chair
+flowerpot,table,houseplant,chair
+flowerpot,table,houseplant,chair
+air conditioner,house,window
+flowerpot,houseplant,chair
+seat belt,car,person
+seat belt,car,person
+seat belt,car,person
+seat belt,car,person
+seat belt,car,person
+seat belt,car,person
+seat belt,car,person
+seat belt,car,person
+house,car,wheel,door,window
+house,car,wheel,door,window
+house,car,wheel,door,window
+handbag,suitcase,footwear,person,trousers
+handbag,suitcase,footwear,person,trousers
+handbag,suitcase,footwear,person,trousers
+handbag,suitcase,footwear,person,trousers
+handbag,suitcase,footwear,person,trousers
+handbag,suitcase,footwear,person,trousers
+handbag,suitcase,footwear,person,trousers
+handbag,suitcase,footwear,person,trousers
+cake,cupcake,tag,bottle
+cake,cupcake,tag,bottle
+cake,cupcake,tag,bottle
+cake,cupcake,tag,bottle
+pastry,dessert,serving tray,tag,croissant
+pastry,dessert,serving tray,tag,croissant
+pastry,dessert,serving tray,tag,croissant
+pastry,dessert,serving tray,tag,croissant
+pastry,dessert,serving tray,tag,croissant
+pastry,dessert,serving tray,tag,croissant
+pastry,dessert,serving tray,tag,croissant
+pastry,dessert,serving tray,tag,croissant
+pastry,dessert,serving tray,tag,croissant
+pastry,dessert,serving tray,tag,croissant
+pastry,dessert,serving tray,tag,croissant
+pastry,dessert,serving tray,tag,croissant
+pastry,dessert,serving tray,tag,croissant
+pastry,dessert,serving tray,tag,croissant
+bread,person,picnic basket
+apron,hat,person
+apron,hat,person
+apron,hat,person
+apron,hat,person
+apron,hat,person
+apron,hat,person
+ball,candy
