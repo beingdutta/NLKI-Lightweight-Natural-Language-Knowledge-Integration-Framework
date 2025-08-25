@@ -30,26 +30,12 @@ The framework consists of:
 
 ## 📂 Repository Structure
 
-```bash
-├── Captioning/          # Visual captioning modules  
-├── FLOPS-Calculation/   # FLOPs and efficiency computation  
-├── Generation/          # LLM-based explanation generation  
-├── Object-Detection/    # Object tagging and detection scripts  
-├── Retrieval/           # ColBERTv2 retriever training and inference  
-├── Train-Test/          # Training and evaluation scripts (with CE, SCE, GCE losses)  
-├── requirements.txt     # Dependencies  
+```text
+├── Captioning/          # Visual captioning modules
+├── FLOPS-Calculation/   # FLOPs and efficiency computation
+├── Generation/          # LLM-based explanation generation
+├── Object-Detection/    # Object tagging and detection scripts
+├── Retrieval/           # ColBERTv2 retriever training and inference
+├── Train-Test/          # Training and evaluation scripts (with CE, SCE, GCE losses)
+├── requirements.txt     # Dependencies
 └── README.md
-
-## ⚡ Installation
-
-```bash
-git clone https://github.com/beingdutta/NLKI-Lightweight-Natural-Language-Knowledge-Integration-Framework.git
-cd NLKI-Lightweight-Natural-Language-Knowledge-Integration-Framework
-
-# Create environment
-conda create -n nlki python=3.10
-conda activate nlki
-
-# Install dependencies
-pip install -r requirements.txt
----
