@@ -40,9 +40,6 @@ The framework consists of:
 ├── requirements.txt     # Dependencies  
 └── README.md
 
-
----
-
 ## ⚡ Installation
 
 ```bash
@@ -55,3 +52,4 @@ conda activate nlki
 
 # Install dependencies
 pip install -r requirements.txt
+---
