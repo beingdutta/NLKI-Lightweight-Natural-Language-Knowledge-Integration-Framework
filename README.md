@@ -2,7 +2,6 @@
 
 [![Paper](https://img.shields.io/badge/Paper-EMNLP%20Findings%202025-blue)](https://arxiv.org/abs/XXXX.XXXXX)  
 [![Website](https://img.shields.io/badge/Project-Website-green)](https://beingdutta.github.io/NLKI-Project-Page-EMNLP-2025-Findings/)  
-[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)  
 
 Official codebase for the EMNLP Findings 2025 paper:  
 **“NLKI: A Lightweight Natural Language Knowledge Integration Framework for Improving Small VLMs in Commonsense VQA Tasks”**  
@@ -30,14 +29,17 @@ The framework consists of:
 ---
 
 ## 📂 Repository Structure
-├── Captioning/ # Visual captioning modules
-├── FLOPS-Calculation/ # FLOPs and efficiency computation
-├── Generation/ # LLM-based explanation generation
-├── Object-Detection/ # Object tagging and detection scripts
-├── Retrieval/ # ColBERTv2 retriever training and inference
-├── Train-Test/ # Training and evaluation scripts (with CE, SCE, GCE losses)
-├── requirements.txt # Dependencies
+
+```bash
+├── Captioning/          # Visual captioning modules  
+├── FLOPS-Calculation/   # FLOPs and efficiency computation  
+├── Generation/          # LLM-based explanation generation  
+├── Object-Detection/    # Object tagging and detection scripts  
+├── Retrieval/           # ColBERTv2 retriever training and inference  
+├── Train-Test/          # Training and evaluation scripts (with CE, SCE, GCE losses)  
+├── requirements.txt     # Dependencies  
 └── README.md
+
 
 ---
 
