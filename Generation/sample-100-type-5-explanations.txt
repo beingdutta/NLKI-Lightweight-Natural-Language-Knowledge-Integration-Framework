@@ -1,0 +1,100 @@
+0_The chair can be used for resting.
+1_A chair is present in the room for resting.
+2_The boy is standing on the chair.
+3_The child is standing on a chair.
+4_Windows are above the entrance.
+5_The artwork on the wall is a painting.
+6_Artwork is above the curtain.
+7_The wooden cabinet with glass doors could store pills.
+8_The chair is often used for playing games.
+9_The red chair can be used for sitting on.
+10_The chair is the furniture for sitting.
+11_The black remote control is the electronic device that controls a TV.
+12_The remote control beside the TV controls the television.
+13_The Xbox 360 console can be used for playing a game.
+14_A person can ride the truck.
+15_The airplane is used for transporting people.
+16_The airplane has glass inside and can circle an airfield.
+17_The object on the runway is a white airplane.
+18_The airplane is transporting people.
+19_The airplane is used for transporting people.
+20_The airplane is on the place that is usually used for landing airplanes.
+21_The rainbow-colored object that can travel on road is the truck.
+22_Airplane, made of metal, has a circular shape.
+23_The object on the table, usually used for holding juice, is a bottle.
+24_The table is used for putting things on.
+25_The coffee cup is used for lifting food to the mouth.
+26_The artwork is on the 'beige and pink striped curtain with fringe trim'.
+27_The desk can be used for working.
+28_The paintbrush is an object used for working.
+29_The answer is: "The window is used for letting fresh air in."
+30_The pumpkin on the counter contains starch.
+31_Pies and cakes are types of desserts in the bakery display.
+32_The cake is a type of dessert.
+33_No, the object in white is not used for holding papers together.
+34_The object used for putting things in is brown.
+35_The black car parked on the street can carry a few persons.
+36_The black car parked on the street is a sedan that carries few persons.
+37_The black object on the road is the "car's wheel".
+38_Red plate on tableware holds pizza.
+39_The tableware is likely beige or white.
+40_The street is the place you can use for walking on.
+41_The black car is parked on the road, not for decoration.
+42_The black car is parked on the road, suitable for transportation.
+43_The man's trees nearby can grow new branches.
+44_The tall object is the mountains in the background.
+45_Man is standing on a baseball field, no pet enclosure.
+46_Flags are hanging on the thing.
+47_White object on head is typically a pillow.
+48_The cat can see the human face.
+49_Horse cannot carry anything in this picture.
+50_The tap is a type of electrical appliance attached to the wall.
+51_The towel rack is attached to hang artwork.
+52_The plant on the wooden shelf is bright blue and holds flowers.
+53_The object on the counter that can be used for holding food is likely a bottle.
+54_No object in the bathroom is designed for holding books.
+55_Wooden shelf holds books.
+56_There is no place for storing food in this bathroom.
+57_Toothbrush is likely found in the bathroom cabinet.
+58_A plant can be found on the shelf in the bathroom.
+59_A yellow soap dispenser is likely found in the bathroom.
+60_The cat can see the lamp well.
+61_Bed is designed for sleeping, often with pillows and quilting.
+62_A desk is likely found in this hotel room.
+63_You are likely to find a lamp on the desk in an office.
+64_The lamp is usually used for decorating the desk.
+65_A chair is typically found on a desk in a bedroom.
+66_The nightstand has a drawer for storing books.
+67_The bed is a wooden object next to the wall for napping.
+68_Beige comforter covers the bed for sleeping.
+69_The lamps on nightstands next to the bed provide lighting.
+70_The small creature on the nightstand is a fly.
+71_No pillows are on the nightstand, so no ungulate is present.
+72_The small object on top of the nightstand is usually used for holding a book.
+73_A small clock is on the nightstand.
+74_A table, a wooden object, is often found in a restaurant.
+75_The lamp next to the wooden bed can be used for decorating the room.
+76_The lamp next to the wooden bed is used for decorating.
+77_The sunny object next to the bed is the curtain.
+78_The pillow is a beige color, suitable for decorating a room.
+79_The beige bedspread is used for resting.
+80_The lamp is not an object for riding.
+81_The beds in the room are designed for sleeping.
+82_The window is on the left side of the bedroom.
+83_A lamp can't hold apples.
+84_The lamp is near the thing that can be used for letting light in.
+85_A clock on the nightstand measures the passage of time.
+86_The clock on the nightstand measures the passage of time.
+87_A likely place to put a computer is on the nightstand.
+88_Small doll on the bed is a child's toy for play.
+89_The toy is likely used for playing with a car.
+90_A small doll sits on one of the beds.
+91_The object on the desk and electric is a lamp.
+92_There is no white object above a metal desk, as the image shows a bedroom with wooden furniture and no metal desk.
+93_The lamp cannot spend gas, as it's an inanimate object.
+94_Lamp is above the bed and can spend gas.
+95_No green vehicle is present in the scene.
+96_Red teddy bear can be used for resting.
+97_The lamp and nightstand can hold books.
+98_Beige floor can be used for sitting on.
+99_The beige floor can be used for sitting on.

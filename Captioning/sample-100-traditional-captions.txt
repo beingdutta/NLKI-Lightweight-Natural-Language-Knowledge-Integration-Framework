@@ -1,0 +1,100 @@
+0_people are standing in a line at a check in counter
+1_there are a lot of slot machines in a row on the wall
+2_there are a lot of slot machines in a row on the wall
+3_there are a lot of slot machines in a row on the wall
+4_there is a room with a table and chairs in it
+5_there is a room with a table and chairs in it
+6_there is a room with a table and chairs in it
+7_there is a room with a table and chairs in it
+8_there is a room with a table and chairs in it
+9_there is a room with a table and chairs in it
+10_there is a room with a table and chairs in it
+11_there is a room with a fireplace and paintings on the walls
+12_there is a room with a fireplace and paintings on the walls
+13_there is a room with a fireplace and paintings on the walls
+14_there is a room with a fireplace and paintings on the walls
+15_there is a room with a fireplace and paintings on the walls
+16_there is a room with a fireplace and paintings on the walls
+17_cars parked in a parking lot in front of a large building
+18_cars parked in a parking lot in front of a large building
+19_cars parked in a parking lot in front of a large building
+20_people standing in front of a large aquarium with fish
+21_people standing in front of a large aquarium with fish
+22_people standing in front of a large aquarium with fish
+23_there are four arches on the side of a stone wall
+24_there are four arches on the side of a stone wall
+25_there are people playing a game in a large room
+26_there are people playing a game in a large room
+27_there are people playing a game in a large room
+28_there are people playing a game in a large room
+29_there are people playing a game in a large room
+30_there are people playing a game in a large room
+31_shelves with boxes and boxes on them in a room
+32_shelves with boxes and boxes on them in a room
+33_shelves with boxes and boxes on them in a room
+34_shelves with boxes and boxes on them in a room
+35_grassy area in a stadium with a man walking on it
+36_there is a wooden chest of drawers and a wooden chest of drawers
+37_trees are in the background
+38_trees are in the background
+39_trees are in the background
+40_trees are in the background
+41_there is a man that is painting on a canvas in a room
+42_there is a man that is painting on a canvas in a room
+43_there is a man that is painting on a canvas in a room
+44_there is a man that is painting on a canvas in a room
+45_there is a man that is painting on a canvas in a room
+46_arafed area with tables and chairs in a large building
+47_arafed area with tables and chairs in a large building
+48_arafed area with tables and chairs in a large building
+49_arafed area with tables and chairs in a large building
+50_arafed area with tables and chairs in a large building
+51_arafed area with tables and chairs in a large building
+52_arafed area with tables and chairs in a large building
+53_there is a white house with a blue door and a blue porch
+54_there is a large room with red chairs and a podium
+55_araffe sitting in a car with a monitor and a remote control
+56_araffe sitting in a car with a monitor and a remote control
+57_araffe sitting in a car with a monitor and a remote control
+58_araffe sitting in a car with a monitor and a remote control
+59_araffe sitting in a car with a monitor and a remote control
+60_araffe sitting in a car with a monitor and a remote control
+61_araffe sitting in a car with a monitor and a remote control
+62_araffe sitting in a car with a monitor and a remote control
+63_cars parked on the street in front of a brick building
+64_cars parked on the street in front of a brick building
+65_cars parked on the street in front of a brick building
+66_there are people standing around a baggage claim area at the airport
+67_there are people standing around a baggage claim area at the airport
+68_there are people standing around a baggage claim area at the airport
+69_there are people standing around a baggage claim area at the airport
+70_there are people standing around a baggage claim area at the airport
+71_there are people standing around a baggage claim area at the airport
+72_there are people standing around a baggage claim area at the airport
+73_there are people standing around a baggage claim area at the airport
+74_arafed display of cakes and pastries in a bakery case
+75_arafed display of cakes and pastries in a bakery case
+76_arafed display of cakes and pastries in a bakery case
+77_arafed display of cakes and pastries in a bakery case
+78_arafed display of pastries and pastries in a bakery
+79_arafed display of pastries and pastries in a bakery
+80_arafed display of pastries and pastries in a bakery
+81_arafed display of pastries and pastries in a bakery
+82_arafed display of pastries and pastries in a bakery
+83_arafed display of pastries and pastries in a bakery
+84_arafed display of pastries and pastries in a bakery
+85_arafed display of pastries and pastries in a bakery
+86_arafed display of pastries and pastries in a bakery
+87_arafed display of pastries and pastries in a bakery
+88_arafed display of pastries and pastries in a bakery
+89_arafed display of pastries and pastries in a bakery
+90_arafed display of pastries and pastries in a bakery
+91_arafed display of pastries and pastries in a bakery
+92_people are standing in a bakery shop looking at breads
+93_several people in white uniforms are standing around a table with dough
+94_several people in white uniforms are standing around a table with dough
+95_several people in white uniforms are standing around a table with dough
+96_several people in white uniforms are standing around a table with dough
+97_several people in white uniforms are standing around a table with dough
+98_several people in white uniforms are standing around a table with dough
+99_there are three balls in a ball pit with a large ball
