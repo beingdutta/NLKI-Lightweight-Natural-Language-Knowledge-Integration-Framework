@@ -37,13 +37,13 @@ The framework combines:
 ├── Train-Test/          # Training and evaluation scripts (CE, SCE, GCE losses)
 ├── requirements.txt     # Dependencies
 └── README.md
-
+---
 
 ## ⚙️ Installation
 git clone https://github.com/beingdutta/NLKI-Lightweight-Natural-Language-Knowledge-Integration-Framework.git
 cd NLKI-Lightweight-Natural-Language-Knowledge-Integration-Framework
 pip install -r requirements.txt
-
+---
 
 ## 🚀 Usage
 # Train with standard CE loss
@@ -51,7 +51,7 @@ python Train-Test/train.py --dataset CRIC --loss CE
 
 # Train with noise-robust losses (SCE / GCE)
 python Train-Test/train.py --dataset AOKVQA --loss SCE
-
+---
 
 ## ✨ Citation
 ```bibtex
@@ -64,7 +64,7 @@ python Train-Test/train.py --dataset AOKVQA --loss SCE
   primaryClass = {cs.CL},
   url          = {https://arxiv.org/abs/2508.19724}
 }
-
+---
 
 ## ⚖️ License & Data Disclaimer
 
@@ -73,3 +73,4 @@ This repository is released under the MIT License.
 The model weights and code are provided for research purposes.
 
 All copyrights for the training data remain with their original owners; no claim of ownership is made.
+---
