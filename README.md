@@ -39,13 +39,17 @@ The framework combines:
 └── README.md
 ---
 
+```
 ## ⚙️ Installation
+```bash
 git clone https://github.com/beingdutta/NLKI-Lightweight-Natural-Language-Knowledge-Integration-Framework.git
 cd NLKI-Lightweight-Natural-Language-Knowledge-Integration-Framework
 pip install -r requirements.txt
 ---
 
+```
 ## 🚀 Usage
+
 # Train with standard CE loss
 python Train-Test/train.py --dataset CRIC --loss CE
 
@@ -66,6 +70,7 @@ python Train-Test/train.py --dataset AOKVQA --loss SCE
 }
 ---
 
+```
 ## ⚖️ License & Data Disclaimer
 
 This repository is released under the MIT License.
