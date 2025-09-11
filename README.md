@@ -50,12 +50,11 @@ pip install -r requirements.txt
 ```
 ## 🚀 Usage
 
-# Train with standard CE loss
+#### Train with standard CE loss
 python Train-Test/train.py --dataset CRIC --loss CE
 
-# Train with noise-robust losses (SCE / GCE)
+#### Train with noise-robust losses (SCE / GCE)
 python Train-Test/train.py --dataset AOKVQA --loss SCE
----
 
 ## ✨ Citation
 ```bibtex
@@ -68,7 +67,6 @@ python Train-Test/train.py --dataset AOKVQA --loss SCE
   primaryClass = {cs.CL},
   url          = {https://arxiv.org/abs/2508.19724}
 }
----
 
 ```
 ## ⚖️ License & Data Disclaimer
@@ -78,4 +76,3 @@ This repository is released under the MIT License.
 The model weights and code are provided for research purposes.
 
 All copyrights for the training data remain with their original owners; no claim of ownership is made.
----
