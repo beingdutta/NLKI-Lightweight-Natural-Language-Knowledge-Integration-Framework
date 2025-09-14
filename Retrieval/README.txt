@@ -34,3 +34,6 @@ python ColBERT-Finetune.py \
 
 # Finetuned checkpoint can be found on the below HF link:
 https://huggingface.co/dutta18/Colbert-Finetuned
+
+# Or, in the below link:
+https://drive.google.com/file/d/1ShIA4GtiWQIr_O0DYo5k1bra-B2LA9mj/view?usp=sharing
